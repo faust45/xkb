@@ -1,0 +1,4 @@
+! option                =       symbols
+  custom:art            =       +custom(art)
+
+! include %S/evdev
